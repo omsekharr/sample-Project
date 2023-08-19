@@ -1,2 +1,3 @@
 added file into  another repository
-to continous with others 
+to continous with others
+same file with same line 
